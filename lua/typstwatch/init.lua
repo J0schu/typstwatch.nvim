@@ -19,3 +19,5 @@ function M.setup(user_config)
     end,
   })
 end
+
+return M
